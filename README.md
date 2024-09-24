@@ -1,9 +1,9 @@
 # Zomato_Data_Analysis
 
-This repository contain analysis of Zomato restaurant data focusing on customers review, restront rating, restront location, and pricing pattern The goal is to extract insights to assist restaurants, food lovers, and data enthusiasts in understanding the restaurant ecosystem on Zomato.
+This repository contain analysis of Zomato restaurant data focusing on customers review, restaurant rating, restaurant location, and pricing pattern The goal is to extract insights to assist restaurant, food lovers, and data enthusiasts in understanding the restaurant ecosystem on Zomato.
 
 **Dataseet**
-* Zomato dataset contain following features :
+Zomato dataset contain following features :
 * url	
 * address	
 * name	
@@ -25,7 +25,7 @@ This repository contain analysis of Zomato restaurant data focusing on customers
 * The analysis focuses on the following aspects:
 * Top-rated restaurants: Identifying restaurants with the highest ratings.
 * Geographical insights: Examining how restaurant preferences change by location.
-* customer comfort : analysing rating of restront which alloe table booking.
+* customer comfort : analysing rating of restaurant which alloe table booking.
 
 **Tools And Libraries**
 This project uses the following tools and libraries:
